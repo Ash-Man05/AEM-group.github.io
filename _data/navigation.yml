@@ -16,14 +16,12 @@ main:
     
   - title: "Teaching"
     url: /teaching/    
-       
-    
+        
   #- title: "Talks"
-   # url: /talks/    
+  # url: /talks/    
 
-  
- # - title: "Blog Posts"
+  # - title: "Blog Posts"
   #  url: /year-archive/
     
- # - title: "Guide"
- #   url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
