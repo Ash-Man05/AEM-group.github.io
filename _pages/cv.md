@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Earthquake Disaster Mitigation Engineering, The University of Tokyo, Japan, 2017
-* 2.	Master of Technology in Structural Engineering, Indian Institute of Technology Bombay, India, 2011
-* 1.	Bachelor of Technology in Civil Engineering, Acharya Nagarjuna University, India, 2009
+* Master of Technology in Structural Engineering, Indian Institute of Technology Bombay, India, 2011
+* Bachelor of Technology in Civil Engineering, Acharya Nagarjuna University, India, 2009
 
 Work experience
 ======
