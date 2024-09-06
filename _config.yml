@@ -12,7 +12,7 @@ title                    : "Chaitanya Krishna Lab"
 title_separator          : "-"
 name                     : &name "Dr. Chaitanya Krishna G."
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ash-man05.github.io/AEM-group.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
