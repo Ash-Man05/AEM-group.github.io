@@ -25,6 +25,9 @@ main:
 
   - title: "Announcement"
     url: /news/
+
+  - title: "Contact Us"
+    url: /contact/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
