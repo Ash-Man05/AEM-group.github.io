@@ -17,11 +17,11 @@ main:
   - title: "Outreach"
     url: /outreach/
         
-  - title: "Blogs and Newsletter"
-    url: /year-archive/
+  #- title: "Blogs and Newsletter"
+  #  url: /year-archive/
     
-  - title: "Announcement"
-    url: /information/
+  #- title: "Announcement"
+  #  url: /information/
     
-  - title: "Contact Us"
-    url: /contact/
+  #- title: "Contact Us"
+  #  url: /contact/
