@@ -1,6 +1,6 @@
 ---
 title: "Incresing Structural Resilience"
-excerpt: "Online lecture on Incresing Structural Resilience by Prof. Andrew Charleson"
+excerpt: "Online lecture on Incresing Structural Resilience by Prof. Andrew Charleson. <br /><br /><a href='/images/Professor_Andrew_Charleson.png' target='_blank'>"
 collection: portfolio
 ---
 
