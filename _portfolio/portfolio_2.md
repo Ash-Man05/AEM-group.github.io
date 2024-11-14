@@ -1,6 +1,6 @@
 ---
-title: "Increasing Structural Resilience"
-excerpt: "Online lecture on Incresing Structural Resilience by Prof. Andrew Charleson"
+title: "Introduction to Applied element Method"
+excerpt: "Hybrid special lecture on the Introduction To the Applied Element Method by Dr Chaitanya Krishna"
 collection: portfolio
 ---
 
